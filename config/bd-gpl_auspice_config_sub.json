@@ -1,0 +1,38 @@
+{
+  "title": "GPL Bd Nextstrain Build",
+  "maintainers": [
+    {"name": "Andy Rothstein"}
+  ],
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "site",
+      "title": "Site",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "site",
+    "region"
+  ],
+  "panels": [
+     "tree",
+     "map"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "region",
+    "site"
+  ]
+}

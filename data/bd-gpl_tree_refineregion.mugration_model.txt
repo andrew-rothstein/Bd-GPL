@@ -1,0 +1,25 @@
+Map from character to field name
+A:	Central Panama
+B:	Global
+C:	Sierra Nevada
+D:	?
+
+
+Substitution rate (mu): 83.458968
+
+Equilibrium frequencies (pi_i):
+  A: 0.2306
+  B: 0.4705
+  C: 0.2989
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C
+  A	0	1.7088	0.3763
+  B	1.7088	0	2.0526
+  C	0.3763	2.0526	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C
+  A	0	0.3941	0.0868
+  B	0.8039	0	0.9657
+  C	0.1125	0.6136	0
