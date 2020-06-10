@@ -1,4 +1,5 @@
 strain	virus	date	region	site
+Bd_UM142	BdBrazil	2009-XX-XX	Root	AmRoot
 1_BdBE1	GPL	2015-XX-XX	Global	Europe
 10_BdBD9	GPL	2016-XX-XX	Global	Europe
 11_BdBE10	GPL	2016-XX-XX	Global	Europe
@@ -121,47 +122,47 @@ V_V8G34A	GPL	2008-XX-XX	Global	Americas
 V_VF1594	GPL	2012-XX-XX	Global	Americas
 140529_02	GPL	2014-XX-XX	Central Panama	El Valle N
 140529_07	GPL	2014-XX-XX	Central Panama	El Valle N
-140624_01	GPL	2014-XX-XX	Central Panama	El Cope
-140630_05	GPL	2014-XX-XX	Central Panama	El Cope
-140708_R12	GPL	2014-XX-XX	Central Panama	Altos de Piedra
-140711_A03	GPL	2014-XX-XX	Central Panama	Cerro Negro
-140712_R06	GPL	2014-XX-XX	Central Panama	Cerro Negro
-140716_R02	GPL	2014-XX-XX	Central Panama	Altos de Piedra
-140718_R12	GPL	2014-XX-XX	Central Panama	Tigrero
+140624_01	GPL	2014-XX-XX	Central Panama	El Cope East
+140630_05	GPL	2014-XX-XX	Central Panama	El Cope East
+140708_R12	GPL	2014-XX-XX	Central Panama	Santa Fe 1
+140711_A03	GPL	2014-XX-XX	Central Panama	Santa Fe 2
+140712_R06	GPL	2014-XX-XX	Central Panama	Santa Fe 2
+140716_R02	GPL	2014-XX-XX	Central Panama	Santa Fe 1
+140718_R12	GPL	2014-XX-XX	Central Panama	El Cope West
 121027_01	GPL	2012-XX-XX	Central Panama	El Valle N
 121212_11	GPL	2012-XX-XX	Central Panama	El Valle S
-130607_z01	GPL	2013-XX-XX	Central Panama	El Cope
+130607_z01	GPL	2013-XX-XX	Central Panama	El Cope East
 130703_M06	GPL	2013-XX-XX	Central Panama	El Valle S
-130712_R05	GPL	2013-XX-XX	Central Panama	Altos de Piedra
+130712_R05	GPL	2013-XX-XX	Central Panama	Santa Fe 1
 131221_01	GPL	2013-XX-XX	Central Panama	Donoso
 140529_08	GPL	2014-XX-XX	Central Panama	El Valle N
-140616_03	GPL	2014-XX-XX	Central Panama	Tigrero
-140619_A05	GPL	2014-XX-XX	Central Panama	Sargentita
-140620_A06	GPL	2014-XX-XX	Central Panama	Sargentita
-140628_11	GPL	2014-XX-XX	Central Panama	El Cope
-140630_04	GPL	2014-XX-XX	Central Panama	El Cope
-140630_12	GPL	2014-XX-XX	Central Panama	El Cope
-140630_R04	GPL	2014-XX-XX	Central Panama	El Cope
-140707_R12	GPL	2014-XX-XX	Central Panama	Altos de Piedra
-140708_R05	GPL	2014-XX-XX	Central Panama	Altos de Piedra
-140711_02	GPL	2014-XX-XX	Central Panama	Cerro Negro
-140711_A02	GPL	2014-XX-XX	Central Panama	Cerro Negro
-140712_R04	GPL	2014-XX-XX	Central Panama	Cerro Negro
-140716_R01	GPL	2014-XX-XX	Central Panama	Altos de Piedra
-141216_15	GPL	2014-XX-XX	Central Panama	Tigrero
+140616_03	GPL	2014-XX-XX	Central Panama	El Cope West
+140619_A05	GPL	2014-XX-XX	Central Panama	Caribbean 2
+140620_A06	GPL	2014-XX-XX	Central Panama	Caribbean 2
+140628_11	GPL	2014-XX-XX	Central Panama	El Cope East
+140630_04	GPL	2014-XX-XX	Central Panama	El Cope East
+140630_12	GPL	2014-XX-XX	Central Panama	El Cope East
+140630_R04	GPL	2014-XX-XX	Central Panama	El Cope East
+140707_R12	GPL	2014-XX-XX	Central Panama	Santa Fe 1
+140708_R05	GPL	2014-XX-XX	Central Panama	Santa Fe 1
+140711_02	GPL	2014-XX-XX	Central Panama	Santa Fe 2
+140711_A02	GPL	2014-XX-XX	Central Panama	Santa Fe 2
+140712_R04	GPL	2014-XX-XX	Central Panama	Santa Fe 2
+140716_R01	GPL	2014-XX-XX	Central Panama	Santa Fe 1
+141216_15	GPL	2014-XX-XX	Central Panama	El Cope West
 141218_06	GPL	2014-XX-XX	Central Panama	El Valle S
 150608_01	GPL	2015-XX-XX	Central Panama	El Valle S
 150615_A01	GPL	2015-XX-XX	Central Panama	El Valle N
-150620_12	GPL	2015-XX-XX	Central Panama	El Cope
-150621_01	GPL	2015-XX-XX	Central Panama	El Cope
-150623_16	GPL	2015-XX-XX	Central Panama	El Cope
+150620_12	GPL	2015-XX-XX	Central Panama	El Cope East
+150621_01	GPL	2015-XX-XX	Central Panama	El Cope East
+150623_16	GPL	2015-XX-XX	Central Panama	El Cope East
 150625_03	GPL	2015-XX-XX	Central Panama	Campana
-150701_01	GPL	2015-XX-XX	Central Panama	El Cope
-150704_04	GPL	2015-XX-XX	Central Panama	El Cope
-150713_A05	GPL	2015-XX-XX	Central Panama	Cerro Negro
-150714_02	GPL	2015-XX-XX	Central Panama	Cerro Negro
-150714_15	GPL	2015-XX-XX	Central Panama	Cerro Negro
-150727_05	GPL	2015-XX-XX	Central Panama	Miguel de la borda
+150701_01	GPL	2015-XX-XX	Central Panama	El Cope East
+150704_04	GPL	2015-XX-XX	Central Panama	El Cope East
+150713_A05	GPL	2015-XX-XX	Central Panama	Santa Fe 2
+150714_02	GPL	2015-XX-XX	Central Panama	Santa Fe 2
+150714_15	GPL	2015-XX-XX	Central Panama	Santa Fe 2
+150727_05	GPL	2015-XX-XX	Central Panama	Caribbean 1
 151201_J01	GPL	2015-XX-XX	Central Panama	El Valle N
 151201_J02	GPL	2015-XX-XX	Central Panama	El Valle N
 151204_J06	GPL	2015-XX-XX	Central Panama	El Valle N
@@ -169,16 +170,16 @@ V_VF1594	GPL	2012-XX-XX	Global	Americas
 151204_J16	GPL	2015-XX-XX	Central Panama	El Valle N
 151205_A02	GPL	2015-XX-XX	Central Panama	El Valle N
 151207_A01	GPL	2015-XX-XX	Central Panama	El Valle S
-151208_J10	GPL	2015-XX-XX	Central Panama	Cerro Negro
-151209_J13	GPL	2015-XX-XX	Central Panama	Cerro Negro
+151208_J10	GPL	2015-XX-XX	Central Panama	Santa Fe 2
+151209_J13	GPL	2015-XX-XX	Central Panama	Santa Fe 2
 151213_G05	GPL	2015-XX-XX	Central Panama	El Valle N
 151213_G06	GPL	2015-XX-XX	Central Panama	El Valle N
 151213_G07	GPL	2015-XX-XX	Central Panama	El Valle N
-151216_A18	GPL	2015-XX-XX	Central Panama	El Cope
+151216_A18	GPL	2015-XX-XX	Central Panama	El Cope East
 151218_A08	GPL	2015-XX-XX	Central Panama	El Valle S
-160114_08	GPL	2016-XX-XX	Central Panama	El Cope
-160115_04	GPL	2016-XX-XX	Central Panama	El Cope
-160119_01	GPL	2016-XX-XX	Central Panama	Miguel de la borda
+160114_08	GPL	2016-XX-XX	Central Panama	El Cope East
+160115_04	GPL	2016-XX-XX	Central Panama	El Cope East
+160119_01	GPL	2016-XX-XX	Central Panama	Caribbean 1
 160602_A16	GPL	2016-XX-XX	Central Panama	Campana
 160602_A17	GPL	2016-XX-XX	Central Panama	Campana
 160606_G02	GPL	2016-XX-XX	Central Panama	El Valle N
@@ -188,17 +189,17 @@ V_VF1594	GPL	2012-XX-XX	Global	Americas
 160608_A05	GPL	2016-XX-XX	Central Panama	El Valle N
 160608_G02	GPL	2016-XX-XX	Central Panama	El Valle N
 160611_G13	GPL	2016-XX-XX	Central Panama	El Valle N
-160623_A20	GPL	2016-XX-XX	Central Panama	El Cope
-160624_G02	GPL	2016-XX-XX	Central Panama	El Cope
-160704_G01	GPL	2016-XX-XX	Central Panama	El Cope
-160704_G14	GPL	2016-XX-XX	Central Panama	El Cope
-160705_A28	GPL	2016-XX-XX	Central Panama	El Cope
-160709_G05	GPL	2016-XX-XX	Central Panama	Altos de Piedra
-160709_G17	GPL	2016-XX-XX	Central Panama	Altos de Piedra
-160711_G02	GPL	2016-XX-XX	Central Panama	Altos de Piedra
-160712_G08	GPL	2016-XX-XX	Central Panama	Cerro Negro
-160712_G09	GPL	2016-XX-XX	Central Panama	Cerro Negro
-160713_A18	GPL	2016-XX-XX	Central Panama	Cerro Negro
+160623_A20	GPL	2016-XX-XX	Central Panama	El Cope East
+160624_G02	GPL	2016-XX-XX	Central Panama	El Cope East
+160704_G01	GPL	2016-XX-XX	Central Panama	El Cope East
+160704_G14	GPL	2016-XX-XX	Central Panama	El Cope East
+160705_A28	GPL	2016-XX-XX	Central Panama	El Cope East
+160709_G05	GPL	2016-XX-XX	Central Panama	Santa Fe 1
+160709_G17	GPL	2016-XX-XX	Central Panama	Santa Fe 1
+160711_G02	GPL	2016-XX-XX	Central Panama	Santa Fe 1
+160712_G08	GPL	2016-XX-XX	Central Panama	Santa Fe 2
+160712_G09	GPL	2016-XX-XX	Central Panama	Santa Fe 2
+160713_A18	GPL	2016-XX-XX	Central Panama	Santa Fe 2
 CBS17002	GPL	2017-XX-XX	Sierra Nevada	Mono Pass
 CBS17005	GPL	2017-XX-XX	Sierra Nevada	Mono Pass
 CBS17006	GPL	2017-XX-XX	Sierra Nevada	Mono Pass
