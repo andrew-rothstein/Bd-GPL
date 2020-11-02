@@ -23,6 +23,7 @@ site	Marjorie Basin	#FDBF6F
 site	McGee Basin	#FF7F00 
 site	Mono Pass	#CAB2D6 
 site	Unicorn Ponds	#6A3D9A
-region	Sierra Nevada	#0000FF
-region	Central Panama	#008000
-region	Global	#BF260A
+region	Sierra Nevada	#636363
+region	Central Panama	#56B4E9
+region	Global	#E69F00
+region	Root	#7D2727
