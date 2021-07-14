@@ -1,4 +1,4 @@
-# NextStrain build for Bd GPL
+# Nextstrain build for Bd GPL
 ### Divergent regional evolutionary histories of a devastating global amphibian pathogen
 #### Published in Proc. R. Soc. B. (2021) http://doi.org/10.1098/rspb.2021.0782
 
