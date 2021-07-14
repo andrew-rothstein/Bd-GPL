@@ -1,3 +1,8 @@
 # NextStrain build for Bd GPL
+### Divergent regional evolutionary histories of a devastating global amphibian pathogen
+#### Published in Proc. R. Soc. B. (2021) http://doi.org/10.1098/rspb.2021.0782
 
 https://nextstrain.org/community/andrew-rothstein/bd-gpl/auspice/viz
+
+### Abstract
+Emerging infectious diseases are a pressing threat to global biological diversity. Increased incidence and severity of novel pathogens underscores the need for methodological advances to understand pathogen emergence and spread. Here, we use genetic epidemiology to test, and challenge, key hypotheses about a devastating zoonotic disease impacting amphibians globally. Using an amplicon-based sequencing method and non-invasive samples we retrospectively explore the history of the fungal pathogen Batrachochytrium dendrobatidis (Bd) in two emblematic amphibian systems: the Sierra Nevada of California and Central Panama. The hypothesis in both regions is the hypervirulent Global Panzootic Lineage of Bd (BdGPL) was recently introduced and spread rapidly in a wave-like pattern. Our data challenge this hypothesis by demonstrating similar epizootic signatures can have radically different underlying evolutionary histories. In Central Panama, our genetic data confirm a recent and rapid pathogen spread. However, BdGPL in the Sierra Nevada has remarkable spatial structuring, high genetic diversity and a relatively older history inferred from time-dated phylogenies. Thus, this deadly pathogen lineage may have a longer history in some regions than assumed, providing insights into its origin and spread. Overall, our results highlight the importance of integrating observed wildlife die-offs with genetic data to more accurately reconstruct pathogen outbreaks.
